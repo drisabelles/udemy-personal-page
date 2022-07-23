@@ -1,3 +1,5 @@
+<img src=https://badgen.net/badge/status/concluido/green> <img src=https://badgen.net/badge/license/MIT/blue>
+
 <div align='center'>
   
 # Udemy - Personal Site
