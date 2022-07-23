@@ -44,7 +44,7 @@ Aqui estão as linguagens, frameworks e plataformas utilizadas para o desenvolvi
 <br />
 
 ## 🖥️ Rodar ou Visualizar
-[Para visualizar o projeto, basta clicar aqui.](https://drisabelles.github.io/udemy-personal-page/).
+[Para visualizar o projeto, basta clicar aqui.](https://drisabelles.github.io/udemy-personal-page/)
 
 Se quiser visualizar e/ou utilizar o código em sua máquina, siga os passos abaixo:
 1) Clone o repositório. [Se não souber como fazer isso, clique aqui.](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
