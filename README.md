@@ -63,7 +63,7 @@ $ npm start
 
 ```bash
 
-📂 portfolio
+📂 udemy-personal-page
 |- 📁 css
 |--- 📄 style.css
 |- 📁 images
